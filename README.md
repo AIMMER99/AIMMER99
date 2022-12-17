@@ -1,4 +1,4 @@
-- 👋 # Hi, I’m @AIMMER
+- 👋 Hi, I’m @AIMMER
 - 👀 I’m interested in AI, Deep Learning-Based Programming, Game Developement. 
 - 🌱 I’m currently learning Unity.
 
