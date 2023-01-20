@@ -7,9 +7,9 @@
 
 
 <summary><h3>🌠 I'm Interesed in :</h3></summary>
-<p><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/misc/ai.svg" alt="ai" style="vertical-align:top; margin:6px 4px">
-<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/misc/gamedev.svg" alt="gamedev" style="vertical-align:top; margin:6px 4px">
-<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/misc/datascience.svg" alt="datascience" style="vertical-align:top; margin:6px 4px"></p
+<p><img src="https://github.com/AIMMER99/AIMMER/blob/28d7cd3f35e42ecaacc5267911f64eed970ff17a/ai.svg" alt="ai" style="vertical-align:top; margin:6px 4px">
+<img src="https://github.com/AIMMER99/AIMMER/blob/28d7cd3f35e42ecaacc5267911f64eed970ff17a/gamedev.svg" alt="gamedev" style="vertical-align:top; margin:6px 4px">
+<img src="https://github.com/AIMMER99/AIMMER/blob/28d7cd3f35e42ecaacc5267911f64eed970ff17a/datascience.svg" alt="datascience" style="vertical-align:top; margin:6px 4px"></p
 
 <summary><h3>🌠 The main languages I use : </h3></summary>
 <p><img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg" height="42">
