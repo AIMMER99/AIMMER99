@@ -1,9 +1,9 @@
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=AIMMER99)
-<summary><h2>🌱 About Me :</h2>   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></summary>
+<summary><h3>🌱 About Me :</h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></summary>
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hey%20My%20Name%20Is%20Adel;I%20am%20a%20Machine%2FDeep%20Learning%20Student;%20I%20am%20Currently%20Learning%20to%20use%20AI%20in%20Game%20Developement;Using%20Unity.&font=Fira%20Code&center=true&width=750&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></p>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hey%20My%20Name%20Is%20Adel;I%20am%20a%20Machine%2FDeep%20Learning%20Student,;%20I%20am%20Currently%20Learning%20to%20Apply%20AI%20in%20Game%20Developement;Developing%20Under%20Unity.&font=Fira%20Code&center=true&width=750&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></p>
 
 
 <summary><h3>🌠 I'm Interesed in :</h3></summary>
