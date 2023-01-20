@@ -11,11 +11,11 @@
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/misc/gamedev.svg" alt="gamedev" style="vertical-align:top; margin:6px 4px">
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/misc/datascience.svg" alt="datascience" style="vertical-align:top; margin:6px 4px"></p
 
-<summary><h2>🌠 The main languages I use : </h2></summary>
+<summary><h3>🌠 The main languages I use : </h3></summary>
 <p><img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg" height="42">
 <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" height="42"></p>
 
-<summary><h2>🌠 ML/DL Platforms & Libraries I Use : </h2></summary>
+<summary><h3>🌠 ML/DL Platforms & Libraries I Use : </h3></summary>
 
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
@@ -41,7 +41,7 @@
 
 
 
-<summary><h2>🌠 My Socials :</h2></summary>
+<summary><h3>🌠 My Socials :</h3></summary>
 
 <a href="https://www.instagram.com/adel.frd/"><img align="left" alt="Adel's Instagram" width="40px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" /></a>
 <a href="https://discord.gg/7vBgs8rD"><img align="left" alt="Adel's Discord" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" /></a>
