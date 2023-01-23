@@ -1,7 +1,9 @@
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=AIMMER99)
-<summary><h3>🌱 About Me :</h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></summary><p align="center"><img src="https://raw.githubusercontent.com/AIMMER99/AIMMER/1109e2e6d2c2f00d8a7445e0c5b5b3011194e78c/hehim.svg" alt="ai" style="vertical-align:top; margin:6px 4px"></p>
+
+<p align="center"><img src="https://raw.githubusercontent.com/AIMMER99/AIMMER/1109e2e6d2c2f00d8a7445e0c5b5b3011194e78c/hehim.svg" alt="ai" margin:6px 4px"></p>
+<summary><h3>🌱 About Me :</h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></summary><p align="center"></p>
  
 <p align="center">
     <img src="https://readme-typing-svg.demolab.com/?lines=Hey%20My%20Name%20Is%20Adel;I%20am%20a%20Machine%2FDeep%20Learning%20Student,;%20I%20am%20Currently%20Learning%20to%20Apply%20AI%20in%20Game%20Developement;Developing%20Under%20Unity.&font=Fira%20Code&center=true&width=750&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></p>
