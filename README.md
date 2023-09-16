@@ -48,7 +48,7 @@
 <summary><h3>🌠 My Socials :</h3></summary>
 
 <p align="center"><a href="https://www.instagram.com/adel.frd/"><img alt="Adel's Instagram" width="40px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" /></a>&nbsp&nbsp&nbsp&nbsp&nbsp
-<a href="https://discord.gg/7vBgs8rD"><img alt="Adel's Discord" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" /></a></p>
+<a href="https://discord.gg/7vBgs8rD"><img alt="Adel's Discord" width="40px" src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-0.png" /></a></p>
 
 
 
